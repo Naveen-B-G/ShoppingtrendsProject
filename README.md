@@ -1,0 +1,2 @@
+# ShoppingtrendsProject
+Shopping_trends Project Description
